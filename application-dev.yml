@@ -6,7 +6,7 @@ eureka:
     serviceUrl:
       defaultZone: ${EUREKA_SERVER:http://localhost:8761/eureka}
       
-  greeting: hello
+greeting: hello
 
   ## instance:
  ## hostname: localhost

@@ -1,6 +1,6 @@
 spring:
   datasource:
-    initialization-mode: true
+    initialization-mode: always
   jpa:
     show-sql: true
     hibernate:
